@@ -8,7 +8,7 @@
 - Fix for rendering issues on Timeline / Editorial
   - Uses Flutter 3.7 Candidate 5
 
-# 1.9.7
+# 1.9.7w
 - Updated impeller version 
 - Improved load state for search tiles
 - Hide Keyboard when scrolling begins in Search
